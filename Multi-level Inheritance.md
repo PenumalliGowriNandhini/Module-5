@@ -30,7 +30,7 @@ Terminate the program.
 
 # PROGRAM
 ```
-# Reg.No-212223060175
+# Reg.No-212222060175
 # Name-Penumalli GowriNandini
 class Parent:
     def __init__(self, name):
