@@ -14,6 +14,8 @@ Delete the s1 object using del s1, triggering the del() method.
 Terminate the program.
 # PROGRAM
 ```
+#REGNO:- 212222060175
+# Name:-Penumalli GowriNandini
 class Student:
 	def __init__(self, name, age):
 		self.name = name
