@@ -3,15 +3,15 @@
 To Write a Python program to Get the name, age and location of a person and display using Multilevel inheritance.
 
 ### ALGORITHM
-Begin the program.
-Define a class Parent with: An init() method to initialize name. A getName() method to return the name.
-Define a class Child that inherits from Parent with: An init() method to initialize name and age (calling the parent's constructor for name). A getAge() method to return the age.
-Define a class Grandchild that inherits from Child with: An init() method to initialize name, age, and location (calling the child's constructor for name and age).
-A getLocation() method to return the location.
-Take name, age, and location as input from the user.
-Create an object gc of the Grandchild class with the given inputs.
-Print the name, age, and location using getName(), getAge(), and getLocation() methods.
-Terminate the program.
+1.Begin the program.
+2.Define a class Parent with: An init() method to initialize name. A getName() method to return the name.
+3.Define a class Child that inherits from Parent with: An init() method to initialize name and age (calling the parent's constructor for name). A getAge() method to return the age.
+4.Define a class Grandchild that inherits from Child with: An init() method to initialize name, age, and location (calling the child's constructor for name and age).
+5.A getLocation() method to return the location.
+6.Take name, age, and location as input from the user.
+7.Create an object gc of the Grandchild class with the given inputs.
+8.Print the name, age, and location using getName(), getAge(), and getLocation() methods.
+9.Terminate the program.
 ### PROGRAM
 ```
 class Parent:
