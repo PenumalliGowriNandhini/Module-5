@@ -26,8 +26,8 @@ To write a Python program to get the name, attendance, and ID of a student and c
 10.Terminate the program.
 # PROGRAM
 ```
-# Reg.No-212223060231
-# Name-Royce Niran George A
+# Reg.No-212222060175
+# Name-Penumalli GowriNandini
 class Demo:
     def __init__(self):
         self.status = "Alive"
