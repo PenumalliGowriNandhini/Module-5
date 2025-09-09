@@ -12,6 +12,8 @@ Call the dis() method on the obj object to display the sum.
 Terminate the program.
 # PROGRAM
 ```
+# REGNO:-212222060175
+# Name:-Penumalli GowriNandini
 class add:
     def __init__(self):
         self.num1=1000
