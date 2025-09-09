@@ -29,8 +29,8 @@ Call the show_details method on the person object and print the result.
 Terminate the program.
 
 # PROGRAM
-# Reg.No-212223060175
-# Name-Penumalli GowriNandini
+Reg.No-212223060175
+Name-Penumalli GowriNandini
 ```
 class Parent:
     def __init__(self, name):
